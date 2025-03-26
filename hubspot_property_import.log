@@ -1,0 +1,72 @@
+2025-03-20 16:17:05,019 - INFO - Created property group 'ATI Seminars Properties - API' for contacts.
+2025-03-20 16:17:05,689 - INFO - Successfully created property 'Member ID' (internal name 'member_id') on 'contacts'.
+2025-03-20 16:17:06,235 - INFO - Successfully created property 'Member Type ID' (internal name 'member_type_id') on 'contacts'.
+2025-03-20 16:17:06,846 - INFO - Successfully created property 'Billing Address ID' (internal name 'billing_address_id') on 'contacts'.
+2025-03-20 16:17:07,458 - INFO - Successfully created property 'Shipping Address ID' (internal name 'shipping_address_id') on 'contacts'.
+2025-03-20 16:17:08,062 - INFO - Successfully created property 'Organization ID' (internal name 'organization_id') on 'contacts'.
+2025-03-20 16:17:08,766 - INFO - Successfully created property 'Active' (internal name 'active') on 'contacts'.
+2025-03-20 16:17:08,951 - INFO - Property 'Email' (internal name 'email') already exists on 'contacts'. Skipping.
+2025-03-20 16:17:09,386 - INFO - Property 'First Name' (internal name 'first_name') already exists (non-unique label). Skipping.
+2025-03-20 16:17:09,811 - INFO - Property 'Last Name' (internal name 'last_name') already exists (non-unique label). Skipping.
+2025-03-20 16:17:10,367 - INFO - Successfully created property 'Title' (internal name 'title') on 'contacts'.
+2025-03-20 16:17:10,591 - INFO - Property 'Company' (internal name 'company') already exists on 'contacts'. Skipping.
+2025-03-20 16:17:10,844 - INFO - Property 'Phone' (internal name 'phone') already exists on 'contacts'. Skipping.
+2025-03-20 16:17:11,070 - INFO - Property 'Fax' (internal name 'fax') already exists on 'contacts'. Skipping.
+2025-03-20 16:17:11,731 - INFO - Successfully created property 'State Registry ID' (internal name 'state_registry_id') on 'contacts'.
+2025-03-20 16:17:12,282 - INFO - Successfully created property 'No State Registry ID' (internal name 'no_state_registry_id') on 'contacts'.
+2025-03-20 16:17:12,858 - INFO - Successfully created property 'Date Registered' (internal name 'date_registered') on 'contacts'.
+2025-03-20 16:17:13,485 - INFO - Successfully created property 'Admin Notes' (internal name 'admin_notes') on 'contacts'.
+2025-03-20 16:17:13,984 - INFO - Created property group 'ATI Seminars Properties - API' for deals.
+2025-03-20 16:17:14,582 - INFO - Successfully created property 'Billing Address ID' (internal name 'billing_address_id') on 'deals'.
+2025-03-20 16:17:15,078 - INFO - Successfully created property 'First Name' (internal name 'first_name') on 'deals'.
+2025-03-20 16:17:15,641 - INFO - Successfully created property 'Last Name' (internal name 'last_name') on 'deals'.
+2025-03-20 16:17:16,200 - INFO - Successfully created property 'Street Address 1' (internal name 'street_address_1') on 'deals'.
+2025-03-20 16:17:16,773 - INFO - Successfully created property 'Street Address 2' (internal name 'street_address_2') on 'deals'.
+2025-03-20 16:17:17,336 - INFO - Successfully created property 'City' (internal name 'city') on 'deals'.
+2025-03-20 16:17:17,863 - INFO - Successfully created property 'State' (internal name 'state') on 'deals'.
+2025-03-20 16:17:18,419 - INFO - Successfully created property 'Zip' (internal name 'zip') on 'deals'.
+2025-03-20 16:17:18,996 - INFO - Successfully created property 'Country' (internal name 'country') on 'deals'.
+2025-03-20 16:17:19,423 - INFO - Created property group 'ATI Seminars Properties - API' for companies.
+2025-03-20 16:17:20,026 - INFO - Successfully created property 'Organization ID' (internal name 'organization_id') on 'companies'.
+2025-03-20 16:17:20,588 - INFO - Successfully created property 'Active' (internal name 'active') on 'companies'.
+2025-03-20 16:17:21,310 - INFO - Successfully created property 'District ID' (internal name 'district_id') on 'companies'.
+2025-03-20 16:17:21,480 - INFO - Property 'Name' (internal name 'name') already exists on 'companies'. Skipping.
+2025-03-20 16:17:21,678 - INFO - Property 'Address' (internal name 'address') already exists on 'companies'. Skipping.
+2025-03-20 16:17:21,917 - INFO - Property 'City' (internal name 'city') already exists on 'companies'. Skipping.
+2025-03-20 16:17:22,130 - INFO - Property 'State' (internal name 'state') already exists on 'companies'. Skipping.
+2025-03-20 16:17:22,333 - INFO - Property 'Zip' (internal name 'zip') already exists on 'companies'. Skipping.
+2025-03-20 16:17:22,546 - INFO - Property 'Phone' (internal name 'phone') already exists on 'companies'. Skipping.
+2025-03-20 16:17:23,097 - INFO - Successfully created property 'Fax' (internal name 'fax') on 'companies'.
+2025-03-20 16:17:23,714 - INFO - Successfully created property 'Type' (internal name 'type') on 'contacts'.
+2025-03-20 16:17:24,419 - INFO - Successfully created property 'Order ID' (internal name 'order_id') on 'deals'.
+2025-03-20 16:17:25,044 - INFO - Successfully created property 'Member ID' (internal name 'member_id') on 'deals'.
+2025-03-20 16:17:25,588 - INFO - Successfully created property 'Order Timestamp' (internal name 'order_timestamp') on 'deals'.
+2025-03-20 16:17:26,159 - INFO - Successfully created property 'Order Status' (internal name 'order_status') on 'deals'.
+2025-03-20 16:17:26,708 - INFO - Successfully created property 'Order Notification Status' (internal name 'order_notification_status') on 'deals'.
+2025-03-20 16:17:27,208 - INFO - Successfully created property 'Order Notes' (internal name 'order_notes') on 'deals'.
+2025-03-20 16:17:27,769 - INFO - Successfully created property 'Charge Subtotal' (internal name 'charge_subtotal') on 'deals'.
+2025-03-20 16:17:28,298 - INFO - Successfully created property 'Charge Tax' (internal name 'charge_tax') on 'deals'.
+2025-03-20 16:17:28,836 - INFO - Successfully created property 'Charge Shipping' (internal name 'charge_shipping') on 'deals'.
+2025-03-20 16:17:29,407 - INFO - Successfully created property 'Charge Total' (internal name 'charge_total') on 'deals'.
+2025-03-20 16:17:30,061 - INFO - Successfully created property 'Discount Code' (internal name 'discount_code') on 'deals'.
+2025-03-20 16:17:30,676 - INFO - Successfully created property 'Discount Amount' (internal name 'discount_amount') on 'deals'.
+2025-03-20 16:17:31,179 - INFO - Successfully created property 'Customer Email' (internal name 'customer_email') on 'deals'.
+2025-03-20 16:17:31,740 - INFO - Created property group 'ATI Seminars Properties - API' for 2-42218987.
+2025-03-20 16:17:32,349 - INFO - Successfully created property 'Order Item ID' (internal name 'order_item_id') on '2-42218987'.
+2025-03-20 16:17:32,985 - INFO - Successfully created property 'Order ID' (internal name 'order_id') on '2-42218987'.
+2025-03-20 16:17:33,645 - INFO - Successfully created property 'Product ID' (internal name 'product_id') on '2-42218987'.
+2025-03-20 16:17:34,231 - INFO - Successfully created property 'Member ID' (internal name 'member_id') on '2-42218987'.
+2025-03-20 16:17:34,470 - INFO - Property 'Product Name' (internal name 'product_name') already exists on '2-42218987'. Skipping.
+2025-03-20 16:17:35,070 - INFO - Successfully created property 'Item Sku' (internal name 'item_sku') on '2-42218987'.
+2025-03-20 16:17:35,693 - INFO - Successfully created property 'Item Qty' (internal name 'item_qty') on '2-42218987'.
+2025-03-20 16:17:36,296 - INFO - Successfully created property 'Item Price' (internal name 'item_price') on '2-42218987'.
+2025-03-20 16:17:36,869 - INFO - Successfully created property 'Transaction' (internal name 'transaction') on 'deals'.
+2025-03-20 16:17:37,469 - INFO - Successfully created property 'Order' (internal name 'order') on 'deals'.
+2025-03-20 16:17:38,051 - INFO - Successfully created property 'Donation' (internal name 'donation') on 'deals'.
+2025-03-20 16:17:38,568 - INFO - Successfully created property 'Subscription' (internal name 'subscription') on 'deals'.
+2025-03-20 16:17:39,158 - INFO - Successfully created property 'Payment Amount' (internal name 'payment_amount') on 'deals'.
+2025-03-20 16:17:39,706 - INFO - Successfully created property 'Payment Status' (internal name 'payment_status') on 'deals'.
+2025-03-20 16:17:39,707 - INFO - ========== Summary ==========
+2025-03-20 16:17:39,707 - INFO - Properties Created: ['Member ID', 'Member Type ID', 'Billing Address ID', 'Shipping Address ID', 'Organization ID', 'Active', 'Title', 'State Registry ID', 'No State Registry ID', 'Date Registered', 'Admin Notes', 'Billing Address ID', 'First Name', 'Last Name', 'Street Address 1', 'Street Address 2', 'City', 'State', 'Zip', 'Country', 'Organization ID', 'Active', 'District ID', 'Fax', 'Type', 'Order ID', 'Member ID', 'Order Timestamp', 'Order Status', 'Order Notification Status', 'Order Notes', 'Charge Subtotal', 'Charge Tax', 'Charge Shipping', 'Charge Total', 'Discount Code', 'Discount Amount', 'Customer Email', 'Order Item ID', 'Order ID', 'Product ID', 'Member ID', 'Item Sku', 'Item Qty', 'Item Price', 'Transaction', 'Order', 'Donation', 'Subscription', 'Payment Amount', 'Payment Status']
+2025-03-20 16:17:39,707 - INFO - Properties Skipped (already exist): ['Email', 'First Name', 'Last Name', 'Company', 'Phone', 'Fax', 'Name', 'Address', 'City', 'State', 'Zip', 'Phone', 'Product Name']
+2025-03-20 16:17:39,707 - INFO - Properties with Errors: []
